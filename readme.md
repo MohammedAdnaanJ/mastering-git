@@ -1,4 +1,5 @@
-## Hello , Git!.
+## Heyoo, Everyone I am learning the Git teaching by ADrian JSM.
 
-I'm adding thi from,
-Feature Branch.
+-Recommended by Ethitrs.
+
+-I'm adding thi from 'Feature Branch'.
