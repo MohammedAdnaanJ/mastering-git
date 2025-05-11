@@ -1,5 +1,5 @@
-## Heyoo, Everyone I am learning the Git teaching by ADrian JSM.
+## Welcome to Git!.
 
 -Recommended by Ethitrs.
-
+-This is coming from 'dev-adnaan'.
 -I'm adding thi from 'Feature Branch'.
